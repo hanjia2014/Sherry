@@ -4,3 +4,8 @@ d:\Projects\Sherry\Sherry\bin\Sherry.pdb
 d:\Projects\Sherry\Sherry\obj\Debug\Sherry.csprojResolveAssemblyReference.cache
 d:\Projects\Sherry\Sherry\obj\Debug\Sherry.dll
 d:\Projects\Sherry\Sherry\obj\Debug\Sherry.pdb
+C:\Sherry\Sherry\Sherry\bin\Sherry.dll
+C:\Sherry\Sherry\Sherry\bin\Sherry.pdb
+C:\Sherry\Sherry\Sherry\obj\Debug\Sherry.csprojResolveAssemblyReference.cache
+C:\Sherry\Sherry\Sherry\obj\Debug\Sherry.dll
+C:\Sherry\Sherry\Sherry\obj\Debug\Sherry.pdb
