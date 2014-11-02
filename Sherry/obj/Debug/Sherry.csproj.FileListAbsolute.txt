@@ -1,0 +1,6 @@
+d:\Projects\Sherry\Sherry\bin\Sherry.dll.config
+d:\Projects\Sherry\Sherry\bin\Sherry.dll
+d:\Projects\Sherry\Sherry\bin\Sherry.pdb
+d:\Projects\Sherry\Sherry\obj\Debug\Sherry.csprojResolveAssemblyReference.cache
+d:\Projects\Sherry\Sherry\obj\Debug\Sherry.dll
+d:\Projects\Sherry\Sherry\obj\Debug\Sherry.pdb
