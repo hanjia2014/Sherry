@@ -90,6 +90,8 @@
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="img\Copy of header-bg.jpg" />
+    <Content Include="img\header-bg.jpg" />
     <Content Include="js\project\emailService.js" />
     <Content Include="js\project\homeCtrl.js" />
     <Content Include="less\agency.less" />
@@ -118,7 +120,6 @@
     <Content Include="img\about\2.jpg" />
     <Content Include="img\about\3.jpg" />
     <Content Include="img\about\4.jpg" />
-    <Content Include="img\header-bg.jpg" />
     <Content Include="img\logos\aetuts.jpg" />
     <Content Include="img\logos\creative-market.jpg" />
     <Content Include="img\logos\designmodo.jpg" />

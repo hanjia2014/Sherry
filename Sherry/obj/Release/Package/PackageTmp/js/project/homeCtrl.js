@@ -1,7 +1,7 @@
 ﻿myApp.controller('homeCtrl', function ($scope, emailService) {
     $scope.copyRight = "Han Jia " + new Date().getFullYear();
     $scope.sendEmail = function () {
-
+        $scope.isEmailSent = false;
         if (checkNullOrEmpty($scope.youName)
             || checkNullOrEmpty($scope.youPhone)
             || checkNullOrEmpty($scope.emailMessage)
