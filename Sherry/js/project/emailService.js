@@ -9,7 +9,7 @@
                             method: "post",
                             url: "https://mandrillapp.com/api/1.0/messages/send.json",
                             data: {
-                                'key': '71V5dukB9IRb7F7gEV0Qzg',
+                                'key': 'd9cfBtCtNDJqXkVM7Aw2ng',
                                 'message': {
                                     'from_email': emailInstance.from,
                                     'to': [
