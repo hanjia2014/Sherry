@@ -155,6 +155,7 @@
     <Content Include="js\jqBootstrapValidation.js" />
     <Content Include="js\jquery.js" />
     <Content Include="js\project\app.js" />
+    <Content Include="readme.txt" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

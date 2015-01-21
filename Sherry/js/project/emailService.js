@@ -14,7 +14,7 @@
                                     'from_email': emailInstance.from,
                                     'to': [
                                         {
-                                            'email': 'hummvee@gmail.com',
+                                            'email': 'aplus.sherry@gmail.com',
                                             'name': emailInstance.name,
                                             'type': 'to'
                                         }
