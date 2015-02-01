@@ -14,7 +14,7 @@
                                     'from_email': emailInstance.from,
                                     'to': [
                                         {
-                                            'email': 'aplus.sherry@gmail.com',
+                                            'email': 'info@aplusca.co.nz',
                                             'name': emailInstance.name,
                                             'type': 'to'
                                         }

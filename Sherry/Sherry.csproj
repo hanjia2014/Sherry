@@ -92,6 +92,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="img\Copy of header-bg.jpg" />
     <Content Include="img\header-bg.jpg" />
+    <Content Include="img\resize_png_new.png" />
     <Content Include="js\project\emailService.js" />
     <Content Include="js\project\homeCtrl.js" />
     <Content Include="less\agency.less" />

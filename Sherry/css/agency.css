@@ -13,6 +13,18 @@ body {
     color: #777;
 }
 
+.text-muted-left {
+    text-align:left;
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
+.contact-text{
+    color:lightyellow;
+}
 .text-primary {
     color: #fed136;
 }
